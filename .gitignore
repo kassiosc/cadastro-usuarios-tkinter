@@ -1,0 +1,19 @@
+# Segredos
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Build
+build/
+dist/
+*.spec
+
+# Sistema / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
